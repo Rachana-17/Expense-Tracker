@@ -19,12 +19,3 @@ An expense tracking application with data visualization - developed using React,
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
-----
-### More applications built using this stack
-
-* [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Social](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Classroom](https://github.com/shamahoque/mern-classroom)
-* [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/second-edition)
-* [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
-* [MERN VR Game](https://github.com/shamahoque/mern-vrgame/tree/second-edition)
