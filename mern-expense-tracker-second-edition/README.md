@@ -2,9 +2,9 @@
 
 An expense tracking application with data visualization - developed using React, Node, Express, MongoDB and Victory.
 
-![MERN Expense Tracker](https://drive.google.com/file/d/1MbpK3CKE3kY3ySKRBzTvRt_4mUBj-VxM/view?usp=drive_link)
+![MERN Expense Tracker](https://drive.google.com/uc?export=view&id=1MbpK3CKE3kY3ySKRBzTvRt_4mUBj-VxM)
 
-![MERN Expense Tracker Graphs](https://drive.google.com/file/d/1VDfHUKtFjHpbzkRWryvbkJR6UoFg07w9/view?usp=drive_link)
+![MERN Expense Tracker Graphs](https://drive.google.com/uc?export=view&id=1VDfHUKtFjHpbzkRWryvbkJR6UoFg07w9)
 
 #### What you need to run this code
 1. Node (13.12.0)
